@@ -1,6 +1,7 @@
 {
   "name": "magoo-price",
   "description": "Display a currency symbol and price with correct  trainling zeros",
+  "version": "1.0.0",
   "main": "magoo-price.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
